@@ -34,7 +34,7 @@ Since now you're about to make your personal changes to the project, it's always
 
 ``` git checkout -b <feat-add-yourname> ```  
 For example:  
-``` git checkout -b feat-add-abhushan ```
+``` git checkout -b feat-add-abhushan ```update my profile
 
 -----
 
