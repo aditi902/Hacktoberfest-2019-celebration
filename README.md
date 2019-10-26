@@ -31,10 +31,10 @@ Since you want to change the files inside, first let's move to the folder correc
 
 ## 4. Make a new branch 
 Since now you're about to make your personal changes to the project, it's always a better idea to make a new branch. Run the following command:  
-
+attribute
 ``` git checkout -b <feat-add-yourname> ```  
 For example:  
-``` git checkout -b feat-add-abhushan ```
+``` git checkout -b feat-add-abhushan ```update my profile
 
 -----
 
