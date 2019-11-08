@@ -74,6 +74,4 @@ I believe there are many more students/self-taught beginners out there, waiting 
 
 How will this work:  
 You get your PR's done and contribute to a cool repository by sharing your stories and struggles and helping others in their journey.  
-I learn how to maintain a repository where people contribute, a win-win status for all.
-
-Happy Coding. Hope you all get your cool swags :) 
+I learn how to maintain a repository where people contribute, a win-win status nothing is more better than being a hell rider......
